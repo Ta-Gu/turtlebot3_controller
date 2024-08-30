@@ -1,6 +1,6 @@
 # Turtlebot3 Controller to avoid obstacles
 
-This package provides advanced control scripts for the Turtlebot3 robot in a Gazebo simulation environment using ROS2. The primary script allows the robot to move in a square pattern and bypass obstacles when detected.
+This package provides an obstacle avoidance script for the Turtlebot3 robot in a Gazebo simulation environment using ROS2. The primary script allows the robot to move in a square pattern and bypass obstacles when detected.
 
 ## Package Contents
 
