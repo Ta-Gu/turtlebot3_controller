@@ -33,7 +33,7 @@ Navigate to the src directory of your workspace and clone this repository:
 
 ```bash
 cd ~/turtlebot3_ws/src
-git clone https://github.com/yourusername/turtlebot3_controller.git
+git clone https://github.com/Ta-Gu/turtlebot3_controller.git
 ```
 
 ### 3. Install Dependencies
