@@ -13,6 +13,7 @@ This package provides an obstacle avoidance script for the Turtlebot3 robot in a
 - **ROS2 Humble**: Make sure you have ROS2 Humble installed on your system.
 - **Turtlebot3 Packages**: You need to have Turtlebot3 simulation packages installed.
 - **Gazebo**: Gazebo should be installed for running the robot simulation.
+- **Python**: 3.10
 
 ## Installation
 
