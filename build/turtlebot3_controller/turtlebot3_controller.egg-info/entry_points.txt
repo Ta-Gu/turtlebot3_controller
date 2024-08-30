@@ -1,0 +1,3 @@
+[console_scripts]
+controller = turtlebot3_controller.square_navigation:main
+
